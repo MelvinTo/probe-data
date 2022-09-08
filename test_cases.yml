@@ -1,0 +1,98 @@
+dns:
+  - tag: adblock
+    domains:
+      - doubleclick.net
+      - ads.google.com
+      - 51yes.com
+      - contextual.media.net
+      - exoclick.com
+      - cdn.taboola.com
+      - stickyadstv.com
+      - outbrain.com
+      - criteo.com
+      - googlesyndication.com
+  - tag: adblock_strict
+    domains:
+      - doubleclick.net
+      - ads.google.com
+      - sync.tidaltv.com
+      - cms.quantserve.com
+      - tags.bluekai.com
+      - ps.eyeota.net
+      - ib.adnxs.com
+      - d.agkn.com
+      - sb.scorecardresearch.com
+      - sync-tm.everesttech.net
+  - tag: active_protect_strict
+    domains:
+      - highdatabase.com
+      - secure.eicar.org
+      - elementfx.com
+      - byethost13.com
+      - vservers.es
+      - 5gbfree.com
+      - www.luckysearch123.com
+      - info.trovi.com
+      - search.hdirectionsandmap.com
+      - hohosearch.com
+  - tag: porn
+    domains:
+      - pornhub.com
+      - txxx.com
+      - daftsex.com
+      - livejasmin.com
+      - youporn.com
+      - xhamsterlive.com
+      - e-hentai.org
+      - dmm.co.jp
+      - eporner.com
+      - chaturbate.com
+  - tag: video
+    domains:
+      - youtube.com
+      - netflix.com
+      - 1.nflxso.net
+      - iqiyi.com
+      - vimeo.com
+      - bilibili.com
+      - hulu.com
+      - mgtv.com
+      - v.qq.com
+      - hbomax.com
+      - googlevideo.com
+  - tag: games
+    domains:
+      - epicgames.com
+      - steampowered.com
+      - roblox.com
+      - twitch.tv
+      - gamersky.com
+      - chess.com
+      - ali213.net
+      - 52pojie.cn
+      - op.gg
+      - mihoyo.com
+  - tag: social
+    domains:
+      - facebook.com
+      - pixiv.net
+      - twimg.com
+      - tiktok.com
+      - vk.com
+      - plus.google.com
+      - pinterest.com
+      - linkedin.com
+      - instagram.com
+      - twitter.com
+  - tag: doh
+    domains:
+      - dns.google.com
+      - cloudflare-dns.com
+      - one.one.one.one
+      - dns.quad9.net
+      - doh.appliedprivacy.net
+      - mozilla.cloudflare-dns.com
+      - doh.cleanbrowsing.org
+      - doh.dnswarden.com
+      - doh.crypto.sx
+      - dns.islandnet.com
