@@ -3,7 +3,6 @@ dns:
   - tag: adblock
     domains:
       - doubleclick.net
-      - ads.google.com
       - 51yes.com
       - contextual.media.net
       - exoclick.com
@@ -15,7 +14,6 @@ dns:
   - tag: adblock_strict
     domains:
       - doubleclick.net
-      - ads.google.com
       - sync.tidaltv.com
       - cms.quantserve.com
       - tags.bluekai.com
